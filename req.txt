@@ -1,0 +1,7 @@
+confluent-kafka
+redis
+pymongo
+fastapi[standard]
+uvicorn[standard]
+pydantic
+python-dotenv
